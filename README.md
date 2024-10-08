@@ -3,12 +3,9 @@
 ### QUESTIONS
 
 ''' SQL
+
 --  here performing the basic to intermediate tasks
 -- SQL series 
--- date format 'yyyy-mm-dd'
-
--- creating employees table 
--- 50000.25
 
 CREATE TABLE employees (
 						employee_id int, 
